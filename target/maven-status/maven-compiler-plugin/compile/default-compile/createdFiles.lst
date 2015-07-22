@@ -1,0 +1,9 @@
+boss\metering\agent\exception\MeteringException.class
+boss\metering\agent\MeteringExecutor.class
+boss\metering\agent\util\Configurator.class
+boss\metering\agent\service\SoftlayerCommunicator.class
+boss\metering\agent\connection\DBCommunicator.class
+boss\metering\agent\MeteringController.class
+boss\metering\agent\data\MeteringUsage.class
+boss\metering\agent\service\BluemixServiceCommunicator.class
+boss\metering\agent\util\Constants.class
