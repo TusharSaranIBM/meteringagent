@@ -2,6 +2,11 @@ package boss.metering.agent.exception;
 
 public class MeteringException extends Exception {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -4585078517801890631L;
+
 	public MeteringException() {
 		// TODO Auto-generated constructor stub
 	}
